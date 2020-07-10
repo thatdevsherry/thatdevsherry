@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
+
+## What I'm currently doing
+
+- Using Rust to build networking tools
+- Learning Angular by developing/maintaining my portfolio website
+- Making Digital Content to document my journey
+
+## How to reach me
+
+My username is `thatdevsherry` on all socials (FB/Instagram/Twitter) etc
+See my [website](https://shehriyarqureshi.com)
+
+## Other things I like
+
+- Good driving (rev match/heel-toe)
+- Parkour
+- Badminton
 
 <!--
 **ShehriyarQureshi/ShehriyarQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
