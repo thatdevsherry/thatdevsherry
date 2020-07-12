@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Personal Branding Banner](banner.jpeg)
+
 I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
 
 ## What I'm currently doing
