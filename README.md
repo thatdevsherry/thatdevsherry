@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Personal Branding Banner](banner.jpeg)
+![Personal Branding Banner](ShehriyarQureshi/ShehriyarQureshi/blob/master/banner.jpeg)
 
 I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
 
