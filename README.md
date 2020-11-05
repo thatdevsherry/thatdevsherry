@@ -7,6 +7,7 @@ I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
 ## What I'm currently doing
 
 - Using Rust to build networking tools
+- Learning to build and lead a remote, agile team
 - Learning Angular by developing/maintaining my portfolio website
 - Making Digital Content to document my journey
 
