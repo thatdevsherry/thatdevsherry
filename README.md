@@ -14,7 +14,7 @@ I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
 ## How to reach me
 
 My username is `thatdevsherry` on all socials (FB/Instagram/Twitter) etc
-See my [website](https://thatdevsherry.com)
+See my [website](https://www.thatdevsherry.pk)
 
 ## Other things I like
 
