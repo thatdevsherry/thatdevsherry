@@ -1,5 +1,11 @@
 # Hi there 👋
 
+[![Website](https://img.shields.io/badge/Website-blue)](https://www.thatdevsherry.pk)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=3f729b)](https://instagram.com/thatdevsherry)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thatdevsherry)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thatdevsherry/)
+
+
 I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
 
 ## What I do/have done
@@ -8,7 +14,7 @@ I'm Shehriyar Qureshi, a **Self-Taught Software Engineer** from *Pakistan*.
 - Learning to build and lead a remote, agile team
 - Used to be an Angular dev, currently trying to keep an Angular project sane
 - Making sure a project started from scratch is technically sane (tests, architecture, making team happy)
-- Making Digital Content to document my journey (slacking off somewhat)
+- Making Digital Content to document my journey
 
 ## How to reach me
 
