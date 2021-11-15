@@ -30,4 +30,4 @@ I'm **Shehriyar Qureshi**, a **Self-Taught Software Engineer** from _Pakistan_.
 
 ## daily.dev
 
-<a href="https://app.daily.dev/thatdevsherry"><img src="https://api.daily.dev/devcards/76d2705686da464fbf524ae9afd54948.png?r=qfn" width="400" alt="Shehriyar Qureshi's Dev Card"/></a>
+[![daily.dev card](https://api.daily.dev/devcards/76d2705686da464fbf524ae9afd54948.png?r=qfn)](https://app.daily.dev/thatdevsherry)
