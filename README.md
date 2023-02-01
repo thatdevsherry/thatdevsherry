@@ -11,9 +11,8 @@ I'm **Muhammad Shehriyar Qureshi**, a Software Engineer from _Pakistan_. I enjoy
 
 - Used [Rust](https://www.rust-lang.com) to implement a networking RFC
 - Worked on projects written in **Nx/Angular/React**
-- Worked on NestJS projects to make GraphQL APIs, storing data in MongoDB
-- Built backends using NodeJS and TypeScript (I do not prefer writing JS)
-- Helped build an automation tool in **Python/pydantic** and **OpenAPI Specification**
+- Built backends using NodeJS and TypeScript (I don't like writing JS)
+- Helped build an automation tool in **Python** for parsing **OpenAPI Specification**
 - Producing **digital content** to document my journey and views
 
 ## Other things I like
