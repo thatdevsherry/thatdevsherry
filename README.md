@@ -9,11 +9,11 @@ I'm **Muhammad Shehriyar Qureshi**, a Software Engineer from _Pakistan_. I enjoy
 
 ## What I've done, and like to do
 
-- Used [Rust](https://www.rust-lang.com) to implement a networking RFC
+- Used [Rust](https://www.rust-lang.com) to implement a [networking RFC](https://github.com/thatdevsherry/twamp-rs) and a retro vibe [engine data scanner](https://github.com/thatdevsherry/suzui-rs/)
 - Worked on projects written in **Nx/Angular/React**
 - Built backends using NodeJS and TypeScript (I don't like writing JS)
 - Helped build an automation tool in **Python** for parsing **OpenAPI Specification**
-- Producing **digital content** to document my journey and views
+- Producing **digital content** to document projects
 
 ## Other things I like
 
