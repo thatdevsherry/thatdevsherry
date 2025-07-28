@@ -3,9 +3,9 @@
 
 I'm Shehriyar. I enjoy working on backend technologies, especially rust.
 
-Open to rust roles.
+**[Open to work]**
 
 ## Projects
 
 - [in-car retro engine data scanner](https://github.com/thatdevsherry/suzui-rs/)
-- [networking RFC](https://github.com/thatdevsherry/twamp-rs)
+- [networking RFC impl](https://github.com/thatdevsherry/twamp-rs)
