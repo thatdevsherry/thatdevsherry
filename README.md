@@ -1,7 +1,13 @@
-[![Website](https://img.shields.io/badge/Website-blue)](https://thatdevsherry.pk)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thatdevsherry/)
+# Hi, I'm Shehriyar Qureshi
 
-I'm Shehriyar. I enjoy working on backend technologies, especially rust.
+[![Website](https://img.shields.io/badge/Website-lightgreen)](https://thatdevsherry.pk)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thatdevsherry/)
+[![BlueSky](https://img.shields.io/badge/BlueSky-blue)](https://bsky.app/profile/thatdevsherry.pk)
+[![Mastodon](https://img.shields.io/badge/Mastodon-purple)](https://fosstodon.org/@thatdevsherry)
+
+## Summary
+
+Software engineer with 6 years of experience across various stacks. I enjoy working on backend technologies, especially rust.
 
 **[Open to work]**
 
