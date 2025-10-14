@@ -15,10 +15,13 @@ Software engineer with 6 years of experience across various stacks. I enjoy work
 
 ### [Suzuki Serial Data Line Viewer](https://github.com/thatdevsherry/suzui-rs/)
 
-Initially a [CLI python prototype](https://github.com/thatdevsherry/suzuki_sdl), turned into a rust project that displays engine data in a TUI in my car.
-
-One of the winners in [Rat in the Wild Challenge](https://github.com/ratatui/ratatui/discussions/1886#discussioncomment-14176951)
+- Initially a [CLI python prototype](https://github.com/thatdevsherry/suzuki_sdl)
+- turned into a rust project that displays engine data in a TUI in my car
+- reverse engineered pre-obd2 protocol
+- One of the winners in [Rat in the Wild Challenge](https://github.com/ratatui/ratatui/discussions/1886#discussioncomment-14176951)
 
 ### [TWAMP RFC 5357 impl.](https://github.com/thatdevsherry/twamp-rs)
 
-Pure rust implementation of Two-Way Active Measurement Protocol used for network performance analysis.
+- Pure rust implementation of Two-Way Active Measurement Protocol
+- used for network performance analysis
+- uses tokio on server side to handle multiple clients at the same time
