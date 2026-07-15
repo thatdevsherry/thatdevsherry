@@ -7,18 +7,18 @@
 
 ## Summary
 
-Software engineer with 6 years of experience across various stacks. I enjoy working on backend technologies, especially rust.
+Software engineer with 7 years of experience across various stacks. I enjoy working on backend technologies.
 
 **[Open to work]**
 
 ## Notable Projects
 
-### [Suzuki Serial Data Line Viewer](https://github.com/thatdevsherry/suzui-rs/)
+### [Suzuki Serial Data Line Viewer](https://github.com/thatdevsherry/dashuki/)
 
 - Initially a [CLI python prototype](https://github.com/thatdevsherry/suzuki_sdl)
-- turned into a rust project that displays engine data in a TUI in my car
+- then turned into a [rust project that displays engine data in a TUI in my car](https://github.com/thatdevsherry/suzui-rs)
+- then now, rewritten from TUI to a GUI in C using raylib
 - reverse engineered pre-obd2 protocol
-- One of the winners in [Rat in the Wild Challenge](https://github.com/ratatui/ratatui/discussions/1886#discussioncomment-14176951)
 
 ### [TWAMP RFC 5357 impl.](https://github.com/thatdevsherry/twamp-rs)
 
