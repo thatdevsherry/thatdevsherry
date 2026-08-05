@@ -7,7 +7,7 @@
 
 ## Summary
 
-Software engineer with 7 years of experience across various stacks. I enjoy working on backend technologies.
+Software engineer with 7 years of experience across various stacks. I enjoy working on back-end technologies and tinkering in automotive.
 
 **[Open to work]**
 
@@ -17,8 +17,8 @@ Software engineer with 7 years of experience across various stacks. I enjoy work
 
 - Initially a [CLI python prototype](https://github.com/thatdevsherry/suzuki_sdl)
 - then turned into a [rust project that displays engine data in a TUI in my car](https://github.com/thatdevsherry/suzui-rs)
-- then now, rewritten from TUI to a GUI in C using raylib
-- reverse engineered pre-obd2 protocol
+- and now, replaced with a GUI in C using raylib
+- reverse engineered pre-obd2 protocol; blog/info on [my website](https://thatdevsherry.pk/suzuki_sdl) and original thread on [PakWheels](https://www.pakwheels.com/forums/t/reverse-engineering-suzuki-serial-data-line/)
 
 ### [TWAMP RFC 5357 impl.](https://github.com/thatdevsherry/twamp-rs)
 
