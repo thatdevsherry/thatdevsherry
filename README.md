@@ -25,3 +25,7 @@ Software engineer with 7 years of experience across various stacks. I enjoy work
 - Pure rust implementation of Two-Way Active Measurement Protocol
 - used for network performance analysis
 - uses tokio on server side to handle multiple clients at the same time
+
+---
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thatdevsherry)](https://github.com/stats-organization/github-stats-extended)
