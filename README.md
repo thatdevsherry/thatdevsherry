@@ -28,4 +28,4 @@ Software engineer with 7 years of experience across various stacks. I enjoy work
 
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thatdevsherry)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=thatdevsherry)](https://github.com/stats-organization/github-stats-extended)
