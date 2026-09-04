@@ -10,6 +10,8 @@
 
 Software engineer with 7 years of experience across various stacks. I enjoy working on back-end technologies and tinkering in automotive.
 
+My primary language of interest is Rust. Have also worked with Python and TypeScript.
+
 **[Open to work]**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatdevsherry&theme=catppuccin_mocha&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
