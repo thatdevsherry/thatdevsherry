@@ -14,9 +14,9 @@ My primary language of interest is Rust. Have also worked with Python and TypeSc
 
 **[Open to work]**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatdevsherry&theme=catppuccin_mocha&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=thatdevsherry)](https://github.com/stats-organization/github-stats-extended)
+
+---
 
 ## Notable Projects
 
