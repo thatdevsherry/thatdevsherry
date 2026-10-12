@@ -9,7 +9,7 @@
 
 Software engineer with 7 years of experience across various stacks. I enjoy working on back-end technologies and tinkering in automotive.
 
-My primary language of interest is Rust & C. Have also worked with Python and TypeScript professionally.
+My primary language of interest is Rust. Have also worked with Python and TypeScript professionally.
 
 **[Open to work]**
 
